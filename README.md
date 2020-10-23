@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
 
 [![](https://github-readme-stats.vercel.app/api?username=leekh7411&show_icons=true&theme=ayu-mirage&count_private=true)](https://github.com/leekh7411)
-[![](https://github-profile-trophy.vercel.app/?username=leekh7411&theme=gruvbox&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/leekh7411)
+[![](https://github-profile-trophy.vercel.app/?username=leekh7411&theme=chalk&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/leekh7411)
