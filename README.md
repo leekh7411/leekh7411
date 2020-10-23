@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-ScikitLearn-000?style=flat&logo=scikit-learn)](https://github.com/leekh7411)
 
 
-[![](https://github-readme-stats.vercel.app/api?username=leekh7411&show_icons=true&theme=ayu-mirage&count_private=true)](https://github.com/leekh7411)
-[![](https://github-profile-trophy.vercel.app/?username=leekh7411&theme=chalk&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/leekh7411)
+[![](https://github-readme-stats.vercel.app/api?username=leekh7411&show_icons=true&theme=nord&count_private=true)](https://github.com/leekh7411)
+[![](https://github-profile-trophy.vercel.app/?username=leekh7411&theme=nord&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/leekh7411)
