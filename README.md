@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 
 [![](https://img.shields.io/badge/-AWS-000?style=flat&logo=amazon-aws)](https://github.com/leekh7411)
 
-[![](https://github-readme-stats.vercel.app/api?username=leekh7411&show_icons=true&theme=gruvbox&count_private=true)](https://github.com/leekh7411)
-[![](https://github-profile-trophy.vercel.app/?username=leekh7411&theme=gruvbox&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/leekh7411)
+[![](https://github-readme-stats.vercel.app/api?username=leekh7411&show_icons=true&theme=solarized-light&count_private=true)](https://github.com/leekh7411)
+[![](https://github-profile-trophy.vercel.app/?username=leekh7411&theme=solarized-light&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/leekh7411)
