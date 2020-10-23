@@ -1,5 +1,4 @@
 ### Hi there 👋
-
 <!--
 **leekh7411/leekh7411** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,5 +21,5 @@ Here are some ideas to get you started:
 
 [![](https://img.shields.io/badge/-AWS-000?style=flat&logo=amazon-aws)](https://github.com/leekh7411)
 
-[![](https://github-readme-stats.vercel.app/api?username=leekh7411&show_icons=true&theme=solarized-light&count_private=true)](https://github.com/leekh7411)
-[![](https://github-profile-trophy.vercel.app/?username=leekh7411&theme=solarized-light&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/leekh7411)
+[![](https://github-readme-stats.vercel.app/api?username=leekh7411&show_icons=true&theme=vue&count_private=true)](https://github.com/leekh7411)
+[![](https://github-profile-trophy.vercel.app/?username=leekh7411&theme=vue&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/leekh7411)
